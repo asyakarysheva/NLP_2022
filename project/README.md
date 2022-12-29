@@ -1,3 +1,7 @@
+# Ссылка на ноутбук в колабе (на всякий случай):
+
+https://colab.research.google.com/drive/11tJDgx_fpaaFXg8Ky_Smjxcbxx3h2ekX#scrollTo=23oHlyiSOEAY
+
 # Отчёт команды №5
 
 ## 1) Описание корпусов 
